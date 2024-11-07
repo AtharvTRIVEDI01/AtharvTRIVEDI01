@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...  
 - 📫 How to reach me ... instagram @_mainatharvhoon
 - 😄 Pronouns: ...The caffeine coder
-- ⚡ Fun fact: ... secret hooby
+- ⚡ Fun fact: ... secret hobby
 
 <!---
 AtharvTRIVEDI01/AtharvTRIVEDI01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
